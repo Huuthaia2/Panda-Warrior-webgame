@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>64C0A7763A1AF337375005CF</RequestId>
+  <HostId>minigame-bundles.oss-ap-southeast-1-internal.aliyuncs.com</HostId>
+  <Key>panda-warrior/production/splash.png</Key>
+  <EC>0026-00000001</EC>
+</Error>
